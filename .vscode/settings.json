@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "c:\\Program Files\\Python38\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "git.ignoreLimitWarning": true
+}
